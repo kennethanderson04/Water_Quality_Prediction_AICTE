@@ -1,7 +1,7 @@
 # Water Quality Prediction
-This project aims to predict multiple water quality parameters using machine learning techniques, specifically MultiOutputRegressor wrapped around a RandomForestRegressor. It was developed as part of a one-month AICTE Virtual Internship sponsored by Shell in June 2025.
+This project aims to predict multiple water quality parameters using machine learning techniques, specifically **MultiOutputRegressor** wrapped around a **RandomForestRegressor**. It was developed as part of a one-month AICTE Virtual Internship sponsored by Shell in June 2025.
 
-# Overview
+## Overview
 Access to clean water is a critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
 
 In this project, we:
@@ -16,7 +16,7 @@ Built a pipeline using MultiOutputRegressor with RandomForestRegressor
 Evaluated the model using appropriate regression metrics
 
 
-# Technologies Used
+## Technologies Used
 
 Python 3.12
 
@@ -28,7 +28,7 @@ Matplotlib, Seaborn – Data visualization
 
 Jupyter Notebook – Interactive experimentation
 
-# Predicted Water Quality Parameters
+## Predicted Water Quality Parameters
 
 The model predicts multiple water quality parameters such as:
 

@@ -37,3 +37,13 @@ The model predicts multiple water quality parameters such as:
 - Colloids
 - O2, NO3, NO2, SO4, PO4 and
 - Cl
+
+## Model Performance
+
+This model was evaluated using:
+
+- R Square score
+- Mean Square Error (MSE)
+
+Performance was acceptable across different parameters.
+ 
